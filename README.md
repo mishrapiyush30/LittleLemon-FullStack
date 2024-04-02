@@ -1,9 +1,9 @@
 # LittleLemon Restaurant - FullStack Project
 
-I have deployed the project on AWS, view at https://bit.ly/LittleLemon
+
 
 ## Motivation:
-This is my modified capstone project for [Meta Back-End Developer Certification](https://www.coursera.org/account/accomplishments/professional-cert/QPWERYDG5685) where I developed a full-stack website for restaurant management.
+This is my modified capstone project for [Meta Back-End Developer Certification] where I developed a full-stack website for restaurant management.
 
 <img width="1800" alt="Screenshot 2023-11-18 at 14 08 17" src="https://github.com/rasi5050/LittleLemon-FullStack/assets/12760472/2ca3b828-2a00-4662-97f8-aeacd84f196d">
 
@@ -19,7 +19,7 @@ This is my modified capstone project for [Meta Back-End Developer Certification]
 
 ## Whats used?
 
-Python, Django, HTML, CSS, JavaScript, AWS EC2, RDS(MySQL)
+Python, Django, HTML, CSS, JavaScript, RDS(MySQL)
 
 ## Functionality
 
@@ -37,7 +37,7 @@ Website features homepage for restaurant, menu display, make reservations, view 
 
 `$ source myprojectenv/bin/activate`
 
-`$ git clone https://github.com/rasi5050/LittleLemon-FullStack.git`
+`$ git clone https://github.com/mishrapiyush30/LittleLemon-FullStack.git`
 
 `$ cd LittleLemon-FullStack`
 
@@ -156,9 +156,5 @@ available time slots
 
 --
 
-Let me know what you feel about this project. Happy to connect on [Linkedin](https://www.linkedin.com/in/rasi5050/)
 
-Happy learning!
-
-rasi01@syr.edu
 
